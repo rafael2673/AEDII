@@ -2,6 +2,8 @@
 
 Este trabalho foi desenvolvido em dupla com os discentes Rafael Ribeiro Franco (20230093741) [@rafael2673](https://github.com/rafael2673) e Matheus Carvalho da Silva (20230093670) [@matheuscs123](https://github.com/matheuscs123)
 
+O vídeo gravado pode ser visto nesse [link](https://drive.google.com/file/d/1UfIMHfSjVUEQKW3lh8-vhzHa26FQwmD5/view?usp=sharing)
+
 ## Objetivo Geral
 O trabalho proposto tem como objetivo reforçar
 conceitos de grafos utilizando a biblioteca
