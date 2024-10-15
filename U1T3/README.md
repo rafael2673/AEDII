@@ -2,7 +2,7 @@
 
 Este trabalho foi desenvolvido em dupla com os discentes Rafael Ribeiro Franco (20230093741) [@rafael2673](https://github.com/rafael2673) 
 e Matheus Carvalho da Silva (20230093670) [@matheuscs123](https://github.com/matheuscs123)
-O vídeo gravado pode ser visto nesse [link]()
+O vídeo gravado pode ser visto nesse [link](https://www.youtube.com/watch?v=BRLuaIO3vHA)
 
 ## Objetivo Geral
 
