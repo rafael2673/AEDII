@@ -1,7 +1,7 @@
 # Descrição
 
 Este trabalho foi desenvolvido  pelo discente Rafael Ribeiro Franco (20230093741) [@rafael2673](https://github.com/rafael2673) 
-O vídeo gravado pode ser visto nesse [link](https://www.youtube.com/watch?v=BRLuaIO3vHA)
+O vídeo gravado pode ser visto nesse [link](https://youtu.be/_XC9x6LtuQc)
 
 # Objetivo Geral
 
