@@ -26,15 +26,28 @@ perceber a diferença entre as cores
 do vértices. As figuras devem ser
 acompanhadas de
 descrições/explicações.
+
+As imagens abaixo foram geradas utilizando a propriedade Ranking da aba de Nodes do Appearence com as seguintes cores:
+- azul - 1D138F
+- azul claro - 88DAD7
+- amarelo - E7F041
+- vermelho - FF1A24
+
+### Degree Centrality
+A primeira métrica mostrada é a Degree Centrality, ela é usada para quantificação da importância de um nó com base no número de conexões diretas que ele possui. Foram filtrados os dados para que mostrasse o nome apenas dos que tivessem essa métrica maior que 165 conexões.
+![Degree_Centrality](https://github.com/user-attachments/assets/86259c91-1b06-4063-8e8d-6e5a56e34da1)
+
 ### Closeness Centrality
-![Closeness_Centrality](https://github.com/user-attachments/assets/801c584e-bd94-4352-8e4c-5ab8591ef31d)
+A segunda métrica mostrada é a Closeness Centrality que mede a proximidade de um nó em relação a todos os outros na rede. Está sendo mostrado o nome dos autores com média maior ou igual a 0.45953 aproximadamente.
+![Closeness_Centrality](https://github.com/user-attachments/assets/55330b18-7e4d-456b-b469-17df9431c8a9)
 
 ### Betweeness Centrality
-![Betweenness_Centrality](https://github.com/user-attachments/assets/1d46336c-36cc-42ad-8f98-019091b56a35)
+A terceira métrica foi a Betweeness centrality que mede quantas vezes um nó aparece nos caminhos mínimos entre outros pares de nós. Está sendo mostrado o nome daqueles que tem a média maior ou igual a 0.06995 aproximadamente.
+![Betweenness_Centrality](https://github.com/user-attachments/assets/0ae41216-e279-47c5-b9fe-c565fdfdfdda)
 
 ### Eigenvector Centrality
-![Eigenvector_Centrality](https://github.com/user-attachments/assets/033813d4-8314-419a-88ea-04aecd1f2607)
-
+A quarta e última métrica foi a Eigenvector centrality que mede a influência de um nó na rede com base na importância dos nós a que está conectado. Um nó com alto índice está conectado a outros nós influentes. Está sendo mostrado o nome aqueles que tem a média maior ou igual a 0.56116 aproximadamente.
+![Eigenvector_Centrality](https://github.com/user-attachments/assets/180772fe-f9de-4c05-8559-ebcaf9bf9a78)
 
 ## Requisito #02
 - A partir da rede construída
@@ -49,6 +62,7 @@ acompanhada de
 descrição/explicação.
 
 ### 10-Shell (vermelho), 11-Core (azul)
+Foi feito uma exportação para o python cujo código utilizado está nesta pasta para calcular o K-core e o K-shell. O resultado de ambos foram 18. Está sendo colorido o grupo 10 e o grupo 11 como mostrado no título.
 ![k-core_k-shell](https://github.com/user-attachments/assets/d13c51be-8a02-4fe1-a2c6-6e71e2b4a50c)
 
 ## Requisito #03
